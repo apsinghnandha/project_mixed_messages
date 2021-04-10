@@ -1,0 +1,20 @@
+{
+  "name": "project_mixed_messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Mixed_message.js",
+  "scripts": {
+    "JS": "node Mixed_message.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apsinghnandha/project_mixed_messages.git"
+  },
+  "keywords": [],
+  "author": "Ap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apsinghnandha/project_mixed_messages/issues"
+  },
+  "homepage": "https://github.com/apsinghnandha/project_mixed_messages#readme"
+}
